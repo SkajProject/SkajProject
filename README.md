@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SkajProject</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate mobile developer from Poland</h3>
 
 - 🔭 I’m currently working on [EzCash](https://ezcash.pl)
 
