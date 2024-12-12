@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Skaj Project</h1>
+
 - 🔭 I’m currently working on [Teachty](https://teachty.com)
 
 - 🌱 I’m currently learning **Flutter**
