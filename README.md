@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Skaj Project</h1>
+<h1 align="center">Hi 👋, I'm Piotr Woźniak</h1>
 
 - 🔭 I’m currently working on [Teachty](https://teachty.com)
 
